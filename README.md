@@ -1,2 +1,3 @@
-# simple-booking-system-ouy3
-Automated issue comment bot repository
+# Simple Booking System Ouy3
+
+Automated issue comment bot repository.
